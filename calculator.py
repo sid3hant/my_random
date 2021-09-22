@@ -30,4 +30,8 @@ class Calculator:
 
 
 if __name__ == '__main__':
+    operation = Calculator()
+    operation.add()
+    operation.subtract()
+
  
