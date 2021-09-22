@@ -33,5 +33,4 @@ if __name__ == '__main__':
     operation = Calculator()
     operation.add()
     operation.subtract()
-    operation.multiply()
-    operation.divide()
+ 
